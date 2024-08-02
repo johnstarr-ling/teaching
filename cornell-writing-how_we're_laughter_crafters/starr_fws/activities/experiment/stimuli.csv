@@ -1,0 +1,16 @@
+﻿item,sentence,pun_status
+p1,I used to play piano by ear but now I use my hands.,yes
+p2,The bicycle couldn't stand up because it was two tired.,yes
+p3,I'm reading a book on anti-gravity that's impossible to put down.,yes
+p4,The scarecrow won an award because he was outstanding in his field.,yes
+p5,Parallel lines have so much in common and it's a shame that they'll never meet.,yes
+np1,She used to paint landscapes with a brush but now she uses a camera.,no
+np2,The bookshelf couldn't hold all the books because it was too small.,no
+np3,We're watching a movie on sociology that's challenging to understand.,no
+np4,The chef received a prize because she was exceptional in the kitchen.,no
+np5,Mortal enemies have very little in relation and it's scary that they'll always fight.,no
+filler1,Were John and Serena able to watch the fireworks last night?,filler
+filler2,How quickly did the lion cross the savannah?,filler
+filler3,Where did her dog hide the bone and why would it take it away?,filler
+filler4,Which citizens will lead the people to the promised land?,filler
+filler5,Who all did Vikram call on the phone after the party last night?,filler

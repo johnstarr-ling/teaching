@@ -1,0 +1,374 @@
+#
+# Results on Thu, 26 Oct 2023 00:46:00 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+# Design number was non-random = 14
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,1,0,consent,NULL,PennController,0,_Trial_,Start,1698281082805,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,1,0,consent,NULL,PennController,0,_Trial_,End,1698281085619,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,2,0,instructions,NULL,PennController,1,_Trial_,Start,1698281085622,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,2,0,instructions,NULL,PennController,1,_Trial_,End,1698281086605,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,PennController,2,_Trial_,Start,1698281086608,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,Controller-DashedSentence,DashedSentence,1,This,1698281088383,490,false,This is a practice trial to help you understand the task.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,Controller-DashedSentence,DashedSentence,2,is,1698281088383,31,false,This is a practice trial to help you understand the task.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,Controller-DashedSentence,DashedSentence,3,a,1698281088383,32,false,This is a practice trial to help you understand the task.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,Controller-DashedSentence,DashedSentence,4,practice,1698281088383,29,false,This is a practice trial to help you understand the task.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,Controller-DashedSentence,DashedSentence,5,trial,1698281088383,30,false,This is a practice trial to help you understand the task.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,Controller-DashedSentence,DashedSentence,6,to,1698281088383,31,false,This is a practice trial to help you understand the task.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,Controller-DashedSentence,DashedSentence,7,help,1698281088383,29,false,This is a practice trial to help you understand the task.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,Controller-DashedSentence,DashedSentence,8,you,1698281088383,31,false,This is a practice trial to help you understand the task.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,Controller-DashedSentence,DashedSentence,9,understand,1698281088383,29,false,This is a practice trial to help you understand the task.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,Controller-DashedSentence,DashedSentence,10,the,1698281088383,29,false,This is a practice trial to help you understand the task.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,Controller-DashedSentence,DashedSentence,11,task.,1698281088383,30,false,This is a practice trial to help you understand the task.,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,Scale,exeval,Choice,4,1698281089064,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,3,0,practice-trial-1,NULL,PennController,2,_Trial_,End,1698281089946,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,4,0,practice-trial-2,NULL,PennController,3,_Trial_,Start,1698281089948,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,4,0,practice-trial-2,NULL,Controller-DashedSentence,DashedSentence,1,I,1698281090764,483,false,I believe that you are a wonderful person!,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,4,0,practice-trial-2,NULL,Controller-DashedSentence,DashedSentence,2,believe,1698281090764,31,false,I believe that you are a wonderful person!,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,4,0,practice-trial-2,NULL,Controller-DashedSentence,DashedSentence,3,that,1698281090764,30,false,I believe that you are a wonderful person!,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,4,0,practice-trial-2,NULL,Controller-DashedSentence,DashedSentence,4,you,1698281090764,31,false,I believe that you are a wonderful person!,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,4,0,practice-trial-2,NULL,Controller-DashedSentence,DashedSentence,5,are,1698281090764,28,false,I believe that you are a wonderful person!,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,4,0,practice-trial-2,NULL,Controller-DashedSentence,DashedSentence,6,a,1698281090764,31,false,I believe that you are a wonderful person!,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,4,0,practice-trial-2,NULL,Controller-DashedSentence,DashedSentence,7,wonderful,1698281090764,29,false,I believe that you are a wonderful person!,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,4,0,practice-trial-2,NULL,Controller-DashedSentence,DashedSentence,8,person!,1698281090764,30,false,I believe that you are a wonderful person!,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,4,0,practice-trial-2,NULL,Scale,exeval2,Choice,1,1698281091951,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,4,0,practice-trial-2,NULL,PennController,3,_Trial_,End,1698281092530,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,5,0,pre-experiment,NULL,PennController,4,_Trial_,Start,1698281092531,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,5,0,pre-experiment,NULL,PennController,4,_Trial_,End,1698281093448,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,PennController,16,_Trial_,Start,1698281093450,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,Were,1698281095680,251,false,Were John and Serena able to watch the fireworks last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,John,1698281095680,212,false,Were John and Serena able to watch the fireworks last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,and,1698281095680,241,false,Were John and Serena able to watch the fireworks last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,Serena,1698281095680,183,false,Were John and Serena able to watch the fireworks last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,able,1698281095680,361,false,Were John and Serena able to watch the fireworks last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,to,1698281095680,207,false,Were John and Serena able to watch the fireworks last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,watch,1698281095680,488,false,Were John and Serena able to watch the fireworks last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,the,1698281095680,31,false,Were John and Serena able to watch the fireworks last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,fireworks,1698281095680,29,false,Were John and Serena able to watch the fireworks last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,last,1698281095680,30,false,Were John and Serena able to watch the fireworks last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,11,night?,1698281095680,30,false,Were John and Serena able to watch the fireworks last night?,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Scale,exeval3,Choice,1,1698281096420,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281097005,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,16,0,experimental-trials,NULL,PennController,16,_Trial_,End,1698281097010,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,PennController,15,_Trial_,Start,1698281097012,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,Mortal,1698281098863,311,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,enemies,1698281098863,300,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,have,1698281098863,250,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,very,1698281098863,490,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,little,1698281098863,35,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,in,1698281098863,28,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,relation,1698281098863,32,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,and,1698281098863,29,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,it's,1698281098863,29,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,scary,1698281098863,30,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,11,that,1698281098863,31,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,12,they'll,1698281098863,31,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,13,always,1698281098863,34,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,14,fight.,1698281098863,28,false,Mortal enemies have very little in relation and it's scary that they'll always fight.,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Scale,exeval3,Choice,1,1698281099553,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281100138,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,15,0,experimental-trials,NULL,PennController,15,_Trial_,End,1698281100146,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,PennController,19,_Trial_,Start,1698281100150,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,Which,1698281101930,330,false,Which citizens will lead the people to the promised land?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,citizens,1698281101930,271,false,Which citizens will lead the people to the promised land?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,will,1698281101930,194,false,Which citizens will lead the people to the promised land?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,lead,1698281101930,493,false,Which citizens will lead the people to the promised land?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,the,1698281101930,29,false,Which citizens will lead the people to the promised land?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,people,1698281101930,30,false,Which citizens will lead the people to the promised land?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,to,1698281101930,30,false,Which citizens will lead the people to the promised land?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,the,1698281101930,33,false,Which citizens will lead the people to the promised land?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,promised,1698281101930,27,false,Which citizens will lead the people to the promised land?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,land?,1698281101930,31,false,Which citizens will lead the people to the promised land?,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,Scale,exeval3,Choice,1,1698281102505,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281103046,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,19,0,experimental-trials,NULL,PennController,19,_Trial_,End,1698281103055,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,PennController,10,_Trial_,Start,1698281103058,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,Parallel,1698281107867,359,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,lines,1698281107867,314,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,have,1698281107867,338,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,so,1698281107867,361,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,much,1698281107867,315,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,in,1698281107867,341,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,common,1698281107867,335,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,and,1698281107867,314,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,it's,1698281107867,306,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,a,1698281107867,269,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,11,shame,1698281107867,313,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,12,that,1698281107867,275,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,13,they'll,1698281107867,279,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,14,never,1698281107867,243,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,15,meet.,1698281107867,265,false,Parallel lines have so much in common and it's a shame that they'll never meet.,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Scale,exeval3,Choice,5,1698281109105,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281109589,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,10,0,experimental-trials,NULL,PennController,10,_Trial_,End,1698281109598,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,PennController,11,_Trial_,Start,1698281109601,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,She,1698281112583,398,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,used,1698281112583,343,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,to,1698281112583,307,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,paint,1698281112583,287,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,landscapes,1698281112583,337,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,with,1698281112583,336,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,a,1698281112583,489,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,brush,1698281112583,28,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,but,1698281112583,30,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,now,1698281112583,33,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,11,she,1698281112583,30,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,12,uses,1698281112583,30,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,13,a,1698281112583,29,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,14,camera.,1698281112583,30,false,She used to paint landscapes with a brush but now she uses a camera.,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Scale,exeval3,Choice,1,1698281113630,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281113991,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,11,0,experimental-trials,NULL,PennController,11,_Trial_,End,1698281113998,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,PennController,9,_Trial_,Start,1698281114000,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,The,1698281119717,354,false,The scarecrow won an award because he was outstanding in his field.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,scarecrow,1698281119717,367,false,The scarecrow won an award because he was outstanding in his field.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,won,1698281119717,339,false,The scarecrow won an award because he was outstanding in his field.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,an,1698281119717,342,false,The scarecrow won an award because he was outstanding in his field.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,award,1698281119717,491,false,The scarecrow won an award because he was outstanding in his field.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,because,1698281119717,443,false,The scarecrow won an award because he was outstanding in his field.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,he,1698281119717,342,false,The scarecrow won an award because he was outstanding in his field.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,was,1698281119717,536,false,The scarecrow won an award because he was outstanding in his field.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,outstanding,1698281119717,442,false,The scarecrow won an award because he was outstanding in his field.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,in,1698281119717,354,false,The scarecrow won an award because he was outstanding in his field.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,11,his,1698281119717,345,false,The scarecrow won an award because he was outstanding in his field.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,12,field.,1698281119717,1062,false,The scarecrow won an award because he was outstanding in his field.,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Scale,exeval3,Choice,5,1698281120494,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281121115,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,9,0,experimental-trials,NULL,PennController,9,_Trial_,End,1698281121121,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,PennController,6,_Trial_,Start,1698281121123,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,I,1698281129172,600,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,used,1698281129172,584,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,to,1698281129172,655,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,play,1698281129172,538,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,piano,1698281129172,523,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,by,1698281129172,584,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,ear,1698281129172,451,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,but,1698281129172,521,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,now,1698281129172,654,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,I,1698281129172,295,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,11,use,1698281129172,340,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,12,my,1698281129172,699,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,13,hands.,1698281129172,1335,false,I used to play piano by ear but now I use my hands.,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Scale,exeval3,Choice,4,1698281130028,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281130476,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,6,0,experimental-trials,NULL,PennController,6,_Trial_,End,1698281130484,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,17,0,experimental-trials,NULL,PennController,17,_Trial_,Start,1698281130486,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,17,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,How,1698281132836,365,false,How quickly did the lion cross the savannah?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,17,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,quickly,1698281132836,286,false,How quickly did the lion cross the savannah?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,17,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,did,1698281132836,259,false,How quickly did the lion cross the savannah?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,17,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,the,1698281132836,244,false,How quickly did the lion cross the savannah?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,17,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,lion,1698281132836,269,false,How quickly did the lion cross the savannah?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,17,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,cross,1698281132836,225,false,How quickly did the lion cross the savannah?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,17,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,the,1698281132836,221,false,How quickly did the lion cross the savannah?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,17,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,savannah?,1698281132836,179,false,How quickly did the lion cross the savannah?,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,17,0,experimental-trials,NULL,Scale,exeval3,Choice,1,1698281134137,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,17,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281134572,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,17,0,experimental-trials,NULL,PennController,17,_Trial_,End,1698281134580,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,PennController,8,_Trial_,Start,1698281134581,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,I'm,1698281139165,267,false,I'm reading a book on anti-gravity that's impossible to put down.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,reading,1698281139165,231,false,I'm reading a book on anti-gravity that's impossible to put down.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,a,1698281139165,275,false,I'm reading a book on anti-gravity that's impossible to put down.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,book,1698281139165,260,false,I'm reading a book on anti-gravity that's impossible to put down.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,on,1698281139165,238,false,I'm reading a book on anti-gravity that's impossible to put down.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,anti-gravity,1698281139165,502,false,I'm reading a book on anti-gravity that's impossible to put down.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,that's,1698281139165,422,false,I'm reading a book on anti-gravity that's impossible to put down.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,impossible,1698281139165,274,false,I'm reading a book on anti-gravity that's impossible to put down.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,to,1698281139165,329,false,I'm reading a book on anti-gravity that's impossible to put down.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,put,1698281139165,294,false,I'm reading a book on anti-gravity that's impossible to put down.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,11,down.,1698281139165,1130,false,I'm reading a book on anti-gravity that's impossible to put down.,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Scale,exeval3,Choice,5,1698281139992,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281140826,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,8,0,experimental-trials,NULL,PennController,8,_Trial_,End,1698281140834,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,PennController,13,_Trial_,Start,1698281140836,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,We're,1698281143464,414,false,We're watching a movie on sociology that's challenging to understand.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,watching,1698281143464,192,false,We're watching a movie on sociology that's challenging to understand.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,a,1698281143464,248,false,We're watching a movie on sociology that's challenging to understand.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,movie,1698281143464,219,false,We're watching a movie on sociology that's challenging to understand.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,on,1698281143464,194,false,We're watching a movie on sociology that's challenging to understand.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,sociology,1698281143464,163,false,We're watching a movie on sociology that's challenging to understand.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,that's,1698281143464,273,false,We're watching a movie on sociology that's challenging to understand.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,challenging,1698281143464,217,false,We're watching a movie on sociology that's challenging to understand.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,to,1698281143464,229,false,We're watching a movie on sociology that's challenging to understand.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,understand.,1698281143464,206,false,We're watching a movie on sociology that's challenging to understand.,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,Scale,exeval3,Choice,1,1698281144338,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281144773,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,13,0,experimental-trials,NULL,PennController,13,_Trial_,End,1698281144780,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,PennController,18,_Trial_,Start,1698281144782,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,Where,1698281146551,197,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,did,1698281146551,222,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,her,1698281146551,221,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,dog,1698281146551,190,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,hide,1698281146551,488,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,the,1698281146551,29,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,bone,1698281146551,31,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,and,1698281146551,30,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,why,1698281146551,29,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,would,1698281146551,31,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,11,it,1698281146551,30,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,12,take,1698281146551,32,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,13,it,1698281146551,30,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,14,away?,1698281146551,30,false,Where did her dog hide the bone and why would it take it away?,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Scale,exeval3,Choice,2,1698281147254,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281147515,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,18,0,experimental-trials,NULL,PennController,18,_Trial_,End,1698281147522,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,PennController,20,_Trial_,Start,1698281147524,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,Who,1698281149460,252,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,all,1698281149460,224,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,did,1698281149460,231,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,Vikram,1698281149460,490,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,call,1698281149460,29,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,on,1698281149460,31,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,the,1698281149460,29,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,phone,1698281149460,31,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,after,1698281149460,28,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,the,1698281149460,31,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,11,party,1698281149460,30,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,12,last,1698281149460,33,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,13,night?,1698281149460,29,false,Who all did Vikram call on the phone after the party last night?,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Scale,exeval3,Choice,2,1698281150022,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281150336,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,20,0,experimental-trials,NULL,PennController,20,_Trial_,End,1698281150341,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,PennController,14,_Trial_,Start,1698281150342,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,The,1698281152718,285,false,The chef received a prize because she was exceptional in the kitchen.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,chef,1698281152718,217,false,The chef received a prize because she was exceptional in the kitchen.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,received,1698281152718,286,false,The chef received a prize because she was exceptional in the kitchen.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,a,1698281152718,265,false,The chef received a prize because she was exceptional in the kitchen.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,prize,1698281152718,254,false,The chef received a prize because she was exceptional in the kitchen.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,because,1698281152718,201,false,The chef received a prize because she was exceptional in the kitchen.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,she,1698281152718,491,false,The chef received a prize because she was exceptional in the kitchen.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,was,1698281152718,30,false,The chef received a prize because she was exceptional in the kitchen.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,exceptional,1698281152718,30,false,The chef received a prize because she was exceptional in the kitchen.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,in,1698281152718,32,false,The chef received a prize because she was exceptional in the kitchen.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,11,the,1698281152718,30,false,The chef received a prize because she was exceptional in the kitchen.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,12,kitchen.,1698281152718,30,false,The chef received a prize because she was exceptional in the kitchen.,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Scale,exeval3,Choice,1,1698281153852,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281154272,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,14,0,experimental-trials,NULL,PennController,14,_Trial_,End,1698281154278,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,PennController,12,_Trial_,Start,1698281154279,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,The,1698281156226,268,false,The bookshelf couldn't hold all the books because it was too small.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,bookshelf,1698281156226,276,false,The bookshelf couldn't hold all the books because it was too small.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,couldn't,1698281156226,256,false,The bookshelf couldn't hold all the books because it was too small.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,hold,1698281156226,232,false,The bookshelf couldn't hold all the books because it was too small.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,all,1698281156226,489,false,The bookshelf couldn't hold all the books because it was too small.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,the,1698281156226,26,false,The bookshelf couldn't hold all the books because it was too small.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,books,1698281156226,31,false,The bookshelf couldn't hold all the books because it was too small.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,because,1698281156226,32,false,The bookshelf couldn't hold all the books because it was too small.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,it,1698281156226,30,false,The bookshelf couldn't hold all the books because it was too small.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,was,1698281156226,30,false,The bookshelf couldn't hold all the books because it was too small.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,11,too,1698281156226,30,false,The bookshelf couldn't hold all the books because it was too small.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,12,small.,1698281156226,30,false,The bookshelf couldn't hold all the books because it was too small.,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Scale,exeval3,Choice,1,1698281156865,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281157450,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,12,0,experimental-trials,NULL,PennController,12,_Trial_,End,1698281157458,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,PennController,7,_Trial_,Start,1698281157460,NULL
+# 13. Reading time.
+# 14. Newline?.
+# 15. Sentence (or sentence MD5).
+# 16. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,1,The,1698281158629,490,false,The bicycle couldn't stand up because it was two tired.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,2,bicycle,1698281158629,30,false,The bicycle couldn't stand up because it was two tired.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,3,couldn't,1698281158629,40,false,The bicycle couldn't stand up because it was two tired.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,4,stand,1698281158629,25,false,The bicycle couldn't stand up because it was two tired.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,5,up,1698281158629,31,false,The bicycle couldn't stand up because it was two tired.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,6,because,1698281158629,33,false,The bicycle couldn't stand up because it was two tired.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,7,it,1698281158629,28,false,The bicycle couldn't stand up because it was two tired.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,8,was,1698281158629,30,false,The bicycle couldn't stand up because it was two tired.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,9,two,1698281158629,30,false,The bicycle couldn't stand up because it was two tired.,Any addtional parameters were appended as additional columns
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,Controller-DashedSentence,DashedSentence,10,tired.,1698281158629,32,false,The bicycle couldn't stand up because it was two tired.,Any addtional parameters were appended as additional columns
+# 13. Comments.
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,Scale,exeval3,Choice,5,1698281159723,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,Button,Continue2,Click,Click,1698281160258,NULL
+1698281160,36f149ea6ad3f54ae438d2eb22f66849,PennController,7,0,experimental-trials,NULL,PennController,7,_Trial_,End,1698281160265,NULL
